@@ -1,5 +1,7 @@
 # 📏 Divider
 
+Content dividers are useful for subtly splitting up sections in information-dense UI.
+
 ## 📸 Screenshots
 
 ![](https://user-images.githubusercontent.com/30156531/216792925-9d334446-ab2c-487a-95df-93f7c3f2b58a.png)
